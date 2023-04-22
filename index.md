@@ -4,7 +4,7 @@
 
 ### Predicting Online Customers' Purchasing Intention
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/project1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

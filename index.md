@@ -18,24 +18,11 @@ Product recommendations are an essential feature of most e-commerce sites. In th
 [View more on Github](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/AWS%20Sagemaker%20-%20Product%20Recommendation%20Engine.ipynb)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Multiple Correspondence Analysis of a Government's Efficacy
+An individual's expectations of their government can vary based on his country of citizenship. In this project, I use multiple correspondence analysis to examine the association between different aspects of a government's responsibility for Switzerland and Australia.
+
+<img src="images/project3.png?raw=true"/>
+
+[View more on RPubs](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/AWS%20Sagemaker%20-%20Product%20Recommendation%20Engine.ipynb)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->

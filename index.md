@@ -6,11 +6,16 @@
 The stratospheric growth of online shopping has allowed companies to collect massive amounts of data and study consumers' behaviour. With the onset of the pandemic, the e-commerce industry continues to thrive. In some countries, 45% of e-commerce companies have reported a growth in revenue of more than 10%. I was curious to find out what were the most important characteristics that determine a online customer's purchasing decision. A random forest approach was used in conjunction with permutation feature importance and partial dependence plots.
 
 <img src="images/project1.png?raw=true"/>
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+
+[View more on Github](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/Predicting%20Online%20Customers'%20Purchasing%20Intention.ipynb)
+
+---
+
+### Building a Popularity-based Recommendation System 
+Product recommendations are an essential feature of most e-commerce sites. In this project, I built a popularity based product recommendation engine and hosted it on Amazon Sagemaker.
 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View more on Github](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/AWS%20Sagemaker%20-%20Product%20Recommendation%20Engine.ipynb)
 
 ---
 [Project 3 Title](http://example.com/)

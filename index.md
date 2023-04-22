@@ -5,7 +5,9 @@
 ### Predicting Online Customers' Purchasing Intention
 The stratospheric growth of online shopping has allowed companies to collect massive amounts of data and study consumers' behaviour. I was curious to find out what were the most important characteristics that determine a online customer's purchasing decision. A random forest approach was used in conjunction with permutation feature importance and partial dependence plots.
 
-<img src="images/project1.png?raw=true"/>
+<p align="center">
+<img src="images/project1_1.png?raw=true"/>
+</p>
 
 [View more on Github](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/Predicting%20Online%20Customers'%20Purchasing%20Intention.ipynb)
 
@@ -23,6 +25,6 @@ An individual's expectations of their government can vary based on his country o
 
 <img src="images/project3.png?raw=true"/>
 
-[View more on RPubs](https://github.com/vidyavcodes/Data-Science-Projects/blob/main/AWS%20Sagemaker%20-%20Product%20Recommendation%20Engine.ipynb)
+[View more on RPubs](https://rpubs.com/vidyav_codes/798187)
 
 ---
